@@ -1,0 +1,11 @@
+git filter-branch --env-filter '
+CORRECT_NAME="IlliaVasulenko"
+CORRECT_EMAIL="global.git.super113@gmail.com"
+export GIT_COMMITTER_NAME="$CORRECT_NAME"
+export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+export GIT_AUTHOR_NAME="$CORRECT_NAME"
+export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+' --tag-name-filter cat -- --branches --tags
+git remote remove origin
+git remote add git@github.com:IlliaVasulenko/fawzi-portfolio.git
+git push --set-upstream origin main
