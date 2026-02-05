@@ -63,11 +63,12 @@ export default function Hero() {
             className="flex flex-col justify-center h-full pt-12"
           >
             <p className="text-lg md:text-xl text-muted-foreground mb-12 leading-relaxed font-light">
-              I am a Senior Full Stack & AI Developer with 10+ years of experience building scalable web, mobile, and AI-powered applications. I specialize in Python backend development using Django, Flask, and FastAPI, combined with Node.js for high-performance, modern architectures.
-
-My AI expertise includes developing and integrating machine learning models, LLM-based solutions, and intelligent automation systems. I build data-driven APIs, deploy AI services, and create user-facing applications using React and Next.js, alongside cross-platform mobile development with React Native and Flutter.
-
-I help startups and businesses transform ideas into reliable, production-ready systems with a strong focus on performance, scalability, and real-world impact.
+              Senior Full Stack Python Engineer with 10 years of experience and strong Python backend expertise, 
+designing, developing, and scaling high-performance systems using Django, Flask, FastAPI, and RESTful APIs. 
+Experienced in full-stack development with Node.js, React, Next.js, and Vue, delivering production-ready web 
+and mobile applications. Skilled in cloud-based architectures, SaaS features, AI/ LLM integrations, automation, 
+DevOps, Docker, and CI/ CD pipelines, building reliable, maintainable, and scalable solutions. Collaborative 
+team player delivering high-quality results in fast-paced, client-focused environments.
             </p>
 
             <div className="flex flex-wrap gap-4">

@@ -6,28 +6,28 @@ const experiences = [
     role: "Senior Senior Full Stack & AI | Mobile APP Engineer ",
     company: "Upwork",
     location: "Kuprina, Kovel, Ukraine",
-    skills: ["Python", "Node.js", "React", "Next.js", "FastAPI", "Express.js", "LLMs", "RAG Pipelines", "Vector Databases", "AWS", "Docker", "DevOps", "PostgreSQL"],
-    description: "Full Stack & AI Developer. Python Engineer |Django Flask FastAPI|.  Mobile APP Developer"
+    skills: ["Python","Django","Flask","FastAPI", "Node.js", "React", "Next.js",  "Express.js", "LLMs", "RAG Pipelines", "Vector Databases", "AWS", "Docker", "DevOps", "PostgreSQL"],
+    description: "Full Stack & AI | Python Engineer |Django Flask FastAPI|.  Flutter & React Native Mobile APP Development"
   },
   {
-    period: "May 2021 - Present",
+    period: "May 2021 - Dec 2025",
     role: "Senior Senior Full Stack & AI Engineer ",
     company: "Volnexis",
     location: "Donetsk Oblast, Ukraine",
     skills: ["Python", "Node.js", "React", "Next.js", "FastAPI", "Express.js", "LLMs", "RAG Pipelines", "Vector Databases", "AWS", "Docker", "DevOps", "PostgreSQL"],
-    description: "Full Stack & AI Development. Built AI-driven trading and automation systems using Python (Django, Flask, FastAPI) and Node.js. Developed trading bots, market data pipelines, and API-based integrations.Created mobile applications using React Native alongside web platforms. Automated workflows and system operations using n8n. Designed scalable, low-latency backend APIs and services. Integrated AI/ML models for intelligent decision-making. Supported DevOps, deployments, and system reliability."
+    description: "Full Stack & Python Backend Development. Built AI-driven trading and automation systems using Python (Django, Flask, FastAPI) and Node.js. Developed trading bots, market data pipelines, and API-based integrations.Created mobile applications using React Native alongside web platforms. Automated workflows and system operations using n8n. Designed scalable, low-latency backend APIs and services. Integrated AI/ML models for intelligent decision-making. Supported DevOps, deployments, and system reliability."
   },
   { 
     period: "August 2018 - April 2021",
-    role: "Full Stack Engineer | Python, Node, .NET/C# | CMS |",
+    role: "Full Stack Python Engineer | Backend Developer",
     company: "Kryonode Systems",
     location: "Kyiv, Ukraine",
-    skills: ["C#", ".NET", "ASP.NET", "Oracle", "VistaDB", "MySQL", "Cloud Services", "Distributed Systems"],
+    skills: ["Python", "Django", "Flask", "FastAPI", "Restful API", "Docker", "MySQL", "Cloud Services", "Distributed Systems"],
     description: "Full Stack .NET, C# Development. Developed and maintained full-stack applications using Python, Node.js, and .NET/C#. Built scalable backend services and APIs for web-based platforms. Implemented CMS-driven solutions and custom integrations. Contributed to frontend development and system architecture. Ensured performance, security, and maintainability across projects"
   },
   {
     period: "Mar 2016 - May 2018",
-    role: "Python Developer",
+    role: "Python. Node, Full Stack Developer",
     company: "",
     location: "Kuprina, Kovel, Ukraine",
     skills: ["Python", "Node.js", "Express", "NLP",  "React", "Vue.js", "Angular"],
